@@ -1,0 +1,11 @@
+# comtypes==1.4.13
+# numpy==2.3.4
+# pandas==2.3.3
+# pyjokes==0.8.3
+# pypiwin32==223
+# python-dateutil==2.9.0.post0
+# pyttsx3==2.99
+# pytz==2025.2
+# pywin32==311
+# six==1.17.0
+# tzdata==2025.2

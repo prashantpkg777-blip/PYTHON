@@ -1,0 +1,7 @@
+a = ["Prashant", "Sahil", "Ankit"]
+
+final = "-".join(a)
+print(final)  # Output: Prashant-Sahil-Ankit
+
+final = "::".join(a)
+print(final)  # Output: Prashant::Sahil::Ankit
